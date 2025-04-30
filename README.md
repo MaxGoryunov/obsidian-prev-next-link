@@ -9,4 +9,8 @@ This script allows you to conveniently insert links to previous and following da
 
 ## Usage
 
+Download `Daily link template.md` from this repository and copy it into your vault. After that, create a new Daily note and call the Templater extension. Choose `Daily link template.md` in the popup window. A table with links to the previous and following notes and labels `Previous` and `Next` respectively should appear at the beginning of the file.
 
+## Troubleshooting
+
+If there is a problem in the script or more functionality is desired, open an issue in this repository.
